@@ -2,11 +2,13 @@
 
 > Note: This is a draft that is work in progress.
 
+The Human Survival Climatic Scale (HUSCI) is a tool designed to categorize and communicate the impacts of climate change on human life. It assesses factors like extreme weather frequency, necessary relocations, climate-induced health issues, and rising sea levels. HUSCI's structured approach, akin to the Beaufort Wind Scale, makes complex climate data more accessible and understandable, aiding scientists and policymakers in conveying urgent climate challenges and fostering informed decision-making. This scale aims to replace abstract temperature targets with a clearer, more relatable system for public and stakeholder engagement.
+
 ## Introduction
 
 Climate change represents one of the most significant challenges of our time, impacting ecosystems, economies, and societies. Understanding its effects, however, can be daunting due to the complexity of scientific data involved. The Human Survival Climatic (HUSCI) Scale is developed to bridge this gap, offering a comprehensible and robust framework to communicate the impact of climate change effects on earth and humans.
 
-## Background
+## Background and Problem Statement
 The challenge of communicating complex scientific data in a manner that is accessible and tangible to the general public has long been recognized across various scientific disciplines. A notable example in this context is the use of scales to simplify complex phenomena. The Beaufort Scale, for instance, translates wind speeds into terms that are easily understandable by non-experts. Similarly, the HUSCI aims to encapsulate the multifaceted effects of climate change into a more digestible format.
 
 ### The Challenge with Communicating in Degrees ###
@@ -41,20 +43,20 @@ The HUSCI serves multiple purposes:
 
 The Human Survival Climatic Scale (HUSCI), while a significant step forward in communicating climate change's human impact, is an evolving framework and work in progress.
 
-| Level | Stage                  | Description                                                                                       | Extreme Weather Events                          | Human Relocation Required |
+| Level | Stage                  | Description                                                                                       | Frequency of Extreme Weather Events             | Human Relocation Required |
 |-------|------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------|---------------------------|
-| 0     | **No Climate Change**   | A baseline state where climate change impacts are not present.                                    | None                                            | Not required              |
+| 0     | **No Climate Change**   | A baseline state where climate change impacts are not present.                                    | Default                                         | Not required              |
 | 1     | **Initial Awareness**   | The earliest stage where changes in climate are just becoming detectable.                         | Minor pattern shifts, slightly unusual seasons  | Not required              |
-| 2     | **Mild Awareness**      | Slight deviations from historical norms begin to cause minor inconveniences.                      | Increased frequency of mild weather anomalies   | Not required              |
-| 3     | **Light Strain**        | Minor challenges and inconveniences become more common.                                           | Heatwaves, heavier rains, mild droughts         | Localized                 |
-| 4     | **Moderate Strain**     | Daily life and systems are increasingly affected, requiring noticeable adaptations and changes.   | Severe storms, significant droughts, heatwaves  | Sub-Regional              |
-| 5     | **High Strain**         | Serious and constant impacts on human life, natural systems, and economies.                       | Extreme weather events, frequent heatwaves      | Regional                  |
-| 6     | **Intensifying Strain** | Challenges are intense and continuous.                                                            |                                                 | Multi-Regional            |
-| 7     | **Severe Strain**       | The focus shifts to enduring the ongoing and severe impacts.                                      |                                                 | Multi-Regional            |
-| 8     | **Critical Strain**     | The situation is critical, with widespread and severe disruptions.                                |                                                 | Multi-Regional            |
-| 9     | **Crisis**              | Urgent and drastic responses are needed to prevent catastrophic outcomes.                         |                                                 | Continental               |
-| 10    | **Systemic Breakdown**  | A breakdown of societal, economic, and environmental systems due to extreme climate conditions.   |                                                 | Continental               |
-| 11    | **Catastrophic**        | The situation is dire, with extreme efforts being the last resort to salvage what remains.        |                                                 | Continental               |
+| 2     | **Mild Awareness**      | Slight deviations from historical norms begin to cause minor inconveniences.                      | Mild Increase of Severe Weather Events          | Not required              |
+| 3     | **Light Strain**        | Minor challenges and inconveniences become more common.                                           | Moderate Increase in Severe Weather Events      | Localized                 |
+| 4     | **Moderate Strain**     | Daily life and systems are increasingly affected, requiring noticeable adaptations and changes.   | High Increase in Severe Weather Events          | Sub-Regional              |
+| 5     | **High Strain**         | Serious and constant impacts on human life, natural systems, and economies.                       | Intense Increase in Severe Weather Events       | Regional                  |
+| 6     | **Intensifying Strain** | Challenges are intense and continuous.                                                            | Critical Increase in Severe Weather Events      | Multi-Regional            |
+| 7     | **Severe Strain**       | The focus shifts to enduring the ongoing and severe impacts.                                      | Critical Increase in Severe Weather Events      | Multi-Regional            |
+| 8     | **Critical Strain**     | The situation is critical, with widespread and severe disruptions.                                | Critical Increase in Severe Weather Events      | Multi-Regional            |
+| 9     | **Crisis**              | Urgent and drastic responses are needed to prevent catastrophic outcomes.                         | Extreme and Unprecedented Weather Patterns      | Continental               |
+| 10    | **Systemic Breakdown**  | A breakdown of societal, economic, and environmental systems due to extreme climate conditions.   | Extreme and Unprecedented Weather Patterns      | Continental               |
+| 11    | **Catastrophic**        | The situation is dire, with extreme efforts being the last resort to salvage what remains.        | Extreme and Unprecedented Weather Patterns      | Continental               |
 | 12    | **Terminal Stage**      | The final and most severe stage, where the climate conditions no longer support human life.       |                                                 | N/A                       |
 
 ## Collaboration - We need your help!
@@ -65,9 +67,9 @@ The Human Survival Climatic Scale (HUSCI), while a significant step forward in c
 #### Scientists and Researchers ####
 We invite the scientific community to contribute to the ongoing development of HUSCI. Collaboration is essential for:
 
-***Data Enhancement:*** Integrating more comprehensive and diverse data sets to refine the scale.
-***Methodological Advancements:*** Employing innovative methodologies to improve the accuracy and relevance of HUSCI.
-***Cross-Disciplinary Research:*** Encouraging contributions from various disciplines, including climatology, sociology, economics, and public health, to enrich the scale's multidimensional approach.
+* **Data Enhancement:** Integrating more comprehensive and diverse data sets to refine the scale.
+* **Methodological Advancements:** Employing innovative methodologies to improve the accuracy and relevance of HUSCI.
+* **Cross-Disciplinary Research:** Encouraging contributions from various disciplines, including climatology, sociology, economics, and public health, to enrich the scale's multidimensional approach.
 
 #### Policymakers and Practitioners ####
 The involvement of policymakers, environmental planners, and practitioners is crucial in ensuring that HUSCI remains grounded in practical realities and serves as a useful tool for policy formulation and implementation.
