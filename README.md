@@ -2,7 +2,7 @@
 
 > Note: This is a draft that is work in progress.
 
-The Human Survival Climatic Scale (HUSCI) is a tool designed to categorize and communicate the impacts of climate change on human life. It assesses factors like extreme weather frequency, necessary relocations, climate-induced health issues, and rising sea levels. HUSCI's structured approach, akin to the Beaufort Wind Scale, makes complex climate data more accessible and understandable, aiding scientists and policymakers in conveying urgent climate challenges and fostering informed decision-making. This scale aims to replace abstract temperature targets with a clearer, more relatable system for public and stakeholder engagement.
+The Human Survival Climatic Scale (HUSCI) is a concise, structured system for assessing and communicating the multifaceted impacts of climate change on human life, akin to the Beaufort Wind Scale in its simplicity and clarity. This scale aims to replace abstract temperature targets with a clearer, more relatable system for public and stakeholder engagement.
 
 ## Introduction
 
