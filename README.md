@@ -41,19 +41,21 @@ The HUSCI serves multiple purposes:
 
 The Human Survival Climatic Scale (HUSCI), while a significant step forward in communicating climate change's human impact, is an evolving framework and work in progress.
 
-| Level | Classification    | Description                                                          | Extreme Weather Events | Hot Days Per Year | Human Relocation Required |
-|-------|-------------------|----------------------------------------------------------------------|------------------------|-------------------|---------------------------|
-| 1     | Ideal             | Perfect conditions for human life; no noticeable risks or impairments.| Very Low              |                   | None                      |
-| 2     | Very Safe         | Almost ideal conditions; very low risks.                             | Low                    |                   |                           |
-| 3     | Safe              | Stable and safe conditions with minimal risks.                        | Slightly Increased    |                   |                           |
-| 4     | Slightly Unfavorable | Minor changes requiring attention; minimal impacts.              | Moderate                |                   |                           |
-| 5     | Moderately Unfavorable | Moderate climatic changes; noticeable impact on quality of life.| High                   |                   |                           |
-| 6     | Unfavorable       | Significant climatic changes with negative impacts.                  | Very High              |                   |                           |
-| 7     | Very Unfavorable  | Serious climatic changes; significant risks and impairments.         | Severe                 |                   |                           |
-| 8     | Critical          | Extreme climate conditions with high risks for survival.             | Catastrophic           |                   |                           |
-| 9     | Very Critical     | Very extreme conditions; survival severely endangered.               | Apocalyptic            |                   |                           |
-| 10    | Uninhabitable     | Climate conditions make normal human life impossible.                | Beyond Catastrophic    |                   | Not Applicable            |
-
+| Level | Stage                  | Description                                                                                       | Extreme Weather Events                          | Human Relocation Required |
+|-------|------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------|---------------------------|
+| 0     | **No Climate Change**   | A baseline state where climate change impacts are not present.                                    | None                                            | Not required              |
+| 1     | **Initial Awareness**   | The earliest stage where changes in climate are just becoming detectable.                         | Minor pattern shifts, slightly unusual seasons  | Not required              |
+| 2     | **Mild Awareness**      | Slight deviations from historical norms begin to cause minor inconveniences.                      | Increased frequency of mild weather anomalies   | Not required              |
+| 3     | **Light Strain**        | Minor challenges and inconveniences become more common.                                           | Heatwaves, heavier rains, mild droughts         | Minimal                   |
+| 4     | **Moderate Strain**     | Daily life and systems are increasingly affected, requiring noticeable adaptations and changes.   | Severe storms, significant droughts, heatwaves  | Localized                 |
+| 5     | **High Strain**         | Serious and constant impacts on human life, natural systems, and economies.                       | Extreme weather events, frequent heatwaves      | Regional                  |
+| 6     | **Intensifying Strain** | Challenges are intense and continuous.                                                            |                                                 | Multiple regions          |
+| 7     | **Severe Strain**       | The focus shifts to enduring the ongoing and severe impacts.                                      |                                                 | Multiple regions          |
+| 8     | **Critical Strain**     | The situation is critical, with widespread and severe disruptions.                                |                                                 | Extensive                 |
+| 9     | **Crisis**              | Urgent and drastic responses are needed to prevent catastrophic outcomes.                         |                                                 | Extensive                 |
+| 10    | **Systemic Breakdown**  | A breakdown of societal, economic, and environmental systems due to extreme climate conditions.   |                                                 | Massive                   |
+| 11    | **Catastrophic**        | The situation is dire, with extreme efforts being the last resort to salvage what remains.        |                                                 |                           |
+| 12    | **Terminal Stage**      | The final and most severe stage, where the climate conditions no longer support human life.       |                                                 | N/A                       |
 
 ## Collaboration - We need your help!
 
