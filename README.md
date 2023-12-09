@@ -1,5 +1,7 @@
 # Human Survival Climatic Scale (HUSCI)
 
+> Note: This is a draft that is work in progress.
+
 ## Introduction
 
 Climate change represents one of the most significant challenges of our time, impacting ecosystems, economies, and societies. Understanding its effects, however, can be daunting due to the complexity of scientific data involved. The Human Survival Climatic Index (HUSCI) is developed to bridge this gap, offering a comprehensible and robust framework to communicate the impact of climate change effects on earth and humans.
@@ -39,18 +41,18 @@ The HUSCI serves multiple purposes:
 
 The Human Survival Climatic Scale (HUSCI), while a significant step forward in communicating climate change's human impact, is an evolving framework and work in progress.
 
-| Level | Classification    | Description                                                          | Extreme Weather Events | Hot Days Per Year | % of Planet Habitable | Human Relocation Required |
-|-------|-------------------|----------------------------------------------------------------------|------------------------|-------------------|----------------------|---------------------------|
-| 1     | Ideal             | Perfect conditions for human life; no noticeable risks or impairments.| Very Low              | Very Low          | >95%                  | None                      |
-| 2     | Very Safe         | Almost ideal conditions; very low risks.                             | Low                    | Low               | 90-95%                | Minimal                   |
-| 3     | Safe              | Stable and safe conditions with minimal risks.                        | Slightly Increased    | Moderate          | 80-90%                | Low                       |
-| 4     | Slightly Unfavorable | Minor changes requiring attention; minimal impacts.              | Moderate                | High              | 70-80%                | Moderate                  |
-| 5     | Moderately Unfavorable | Moderate climatic changes; noticeable impact on quality of life.| High                   | Very High         | 60-70%                | High                      |
-| 6     | Unfavorable       | Significant climatic changes with negative impacts.                  | Very High              | Extreme           | 50-60%                | Very High                 |
-| 7     | Very Unfavorable  | Serious climatic changes; significant risks and impairments.         | Severe                 | Intolerable       | 30-50%                | Critical                  |
-| 8     | Critical          | Extreme climate conditions with high risks for survival.             | Catastrophic           | Unsurvivable      | 10-30%                | Urgent                    |
-| 9     | Very Critical     | Very extreme conditions; survival severely endangered.               | Apocalyptic            | Uninhabitable     | <10%                  | Mandatory                 |
-| 10    | Uninhabitable     | Climate conditions make normal human life impossible.                | Beyond Catastrophic    | Impossible        | 0%                    | Not Applicable            |
+| Level | Classification    | Description                                                          | Extreme Weather Events | Hot Days Per Year | Human Relocation Required |
+|-------|-------------------|----------------------------------------------------------------------|------------------------|-------------------|---------------------------|
+| 1     | Ideal             | Perfect conditions for human life; no noticeable risks or impairments.| Very Low              |                   | None                      |
+| 2     | Very Safe         | Almost ideal conditions; very low risks.                             | Low                    |                   |                           |
+| 3     | Safe              | Stable and safe conditions with minimal risks.                        | Slightly Increased    |                   |                           |
+| 4     | Slightly Unfavorable | Minor changes requiring attention; minimal impacts.              | Moderate                |                   |                           |
+| 5     | Moderately Unfavorable | Moderate climatic changes; noticeable impact on quality of life.| High                   |                   |                           |
+| 6     | Unfavorable       | Significant climatic changes with negative impacts.                  | Very High              |                   |                           |
+| 7     | Very Unfavorable  | Serious climatic changes; significant risks and impairments.         | Severe                 |                   |                           |
+| 8     | Critical          | Extreme climate conditions with high risks for survival.             | Catastrophic           |                   |                           |
+| 9     | Very Critical     | Very extreme conditions; survival severely endangered.               | Apocalyptic            |                   |                           |
+| 10    | Uninhabitable     | Climate conditions make normal human life impossible.                | Beyond Catastrophic    |                   | Not Applicable            |
 
 
 ## Collaboration - We need your help!
