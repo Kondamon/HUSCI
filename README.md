@@ -94,6 +94,9 @@ In summary, the Human Survival Climatic Scale (HUSCI) is a pioneering tool desig
 ## Citation
 Human Survival Climatic Scale (HUSCI), (https://husci.org)
 
+### Authors
+[Christian Elbe](https://orcid.org/0009-0008-7292-5957)
+
 ## Further Reading
 For further reading and a deeper understanding of the HUSCI methodology and applications, refer to the following resources:
 
