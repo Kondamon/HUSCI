@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Climate change represents one of the most significant challenges of our time, impacting ecosystems, economies, and societies. Understanding its effects, however, can be daunting due to the complexity of scientific data involved. The Human Survival Climatic Index (HUSCI) is developed to bridge this gap, offering a comprehensible and robust framework to communicate the impact of climate change effects on earth and humans.
+Climate change represents one of the most significant challenges of our time, impacting ecosystems, economies, and societies. Understanding its effects, however, can be daunting due to the complexity of scientific data involved. The Human Survival Climatic (HUSCI) Scale is developed to bridge this gap, offering a comprehensible and robust framework to communicate the impact of climate change effects on earth and humans.
 
 ## Background
 The challenge of communicating complex scientific data in a manner that is accessible and tangible to the general public has long been recognized across various scientific disciplines. A notable example in this context is the use of scales to simplify complex phenomena. The Beaufort Scale, for instance, translates wind speeds into terms that are easily understandable by non-experts. Similarly, the HUSCI aims to encapsulate the multifaceted effects of climate change into a more digestible format.
@@ -46,15 +46,15 @@ The Human Survival Climatic Scale (HUSCI), while a significant step forward in c
 | 0     | **No Climate Change**   | A baseline state where climate change impacts are not present.                                    | None                                            | Not required              |
 | 1     | **Initial Awareness**   | The earliest stage where changes in climate are just becoming detectable.                         | Minor pattern shifts, slightly unusual seasons  | Not required              |
 | 2     | **Mild Awareness**      | Slight deviations from historical norms begin to cause minor inconveniences.                      | Increased frequency of mild weather anomalies   | Not required              |
-| 3     | **Light Strain**        | Minor challenges and inconveniences become more common.                                           | Heatwaves, heavier rains, mild droughts         | Minimal                   |
-| 4     | **Moderate Strain**     | Daily life and systems are increasingly affected, requiring noticeable adaptations and changes.   | Severe storms, significant droughts, heatwaves  | Localized                 |
+| 3     | **Light Strain**        | Minor challenges and inconveniences become more common.                                           | Heatwaves, heavier rains, mild droughts         | Localized                 |
+| 4     | **Moderate Strain**     | Daily life and systems are increasingly affected, requiring noticeable adaptations and changes.   | Severe storms, significant droughts, heatwaves  | Sub-Regional              |
 | 5     | **High Strain**         | Serious and constant impacts on human life, natural systems, and economies.                       | Extreme weather events, frequent heatwaves      | Regional                  |
-| 6     | **Intensifying Strain** | Challenges are intense and continuous.                                                            |                                                 | Multiple regions          |
-| 7     | **Severe Strain**       | The focus shifts to enduring the ongoing and severe impacts.                                      |                                                 | Multiple regions          |
-| 8     | **Critical Strain**     | The situation is critical, with widespread and severe disruptions.                                |                                                 | Extensive                 |
-| 9     | **Crisis**              | Urgent and drastic responses are needed to prevent catastrophic outcomes.                         |                                                 | Extensive                 |
-| 10    | **Systemic Breakdown**  | A breakdown of societal, economic, and environmental systems due to extreme climate conditions.   |                                                 | Massive                   |
-| 11    | **Catastrophic**        | The situation is dire, with extreme efforts being the last resort to salvage what remains.        |                                                 |                           |
+| 6     | **Intensifying Strain** | Challenges are intense and continuous.                                                            |                                                 | Multi-Regional            |
+| 7     | **Severe Strain**       | The focus shifts to enduring the ongoing and severe impacts.                                      |                                                 | Multi-Regional            |
+| 8     | **Critical Strain**     | The situation is critical, with widespread and severe disruptions.                                |                                                 | Multi-Regional            |
+| 9     | **Crisis**              | Urgent and drastic responses are needed to prevent catastrophic outcomes.                         |                                                 | Continental               |
+| 10    | **Systemic Breakdown**  | A breakdown of societal, economic, and environmental systems due to extreme climate conditions.   |                                                 | Continental               |
+| 11    | **Catastrophic**        | The situation is dire, with extreme efforts being the last resort to salvage what remains.        |                                                 | Continental               |
 | 12    | **Terminal Stage**      | The final and most severe stage, where the climate conditions no longer support human life.       |                                                 | N/A                       |
 
 ## Collaboration - We need your help!
